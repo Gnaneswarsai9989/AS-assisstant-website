@@ -25,8 +25,8 @@ as-assistants/
 
 ## Founder
 
-**SD. SHARU** | Nellore, Andhra Pradesh  
-📧 sharusd8@gmail.com | 📞 72078 20791 / 7386801785
+**SD. SANDEEP** | Nellore, Andhra Pradesh  
+📧 sandeepsd8@gmail.com | 📞 72078 20791 / 7386801785
 
 ## Usage
 

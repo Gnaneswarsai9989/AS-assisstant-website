@@ -216,13 +216,23 @@ img { max-width: 100%; display: block; }
   background: rgba(201,168,76,0.06);
 }
 
+/* SPB + DS Hero Portraits Row */
+.hero-portraits-row {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  gap: 40px;
+  margin-bottom: 32px;
+  flex-wrap: wrap;
+}
+
 /* SPB Hero Portrait */
 .hero-spb-portrait {
   display: flex;
   flex-direction: column;
   align-items: center;
   gap: 10px;
-  margin-bottom: 32px;
   position: relative;
 }
 .hero-spb-ring {
