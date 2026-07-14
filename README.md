@@ -22,11 +22,11 @@ as-assistants/
 - **Awards** — Award showcase
 - **Testimonials** — Client testimonials
 - **Contact** — Contact details + enquiry form
-
+- 
 ## Founder
 
 **SD. SANDEEP** | Nellore, Andhra Pradesh  
-📧 sandeepsd8@gmail.com | 📞 72078 20791 / 7386801785
+📧 ASASSISTANTGROUP@gmail.com | 📞 72078 20791 / 7386801785
 
 ## Usage
 
